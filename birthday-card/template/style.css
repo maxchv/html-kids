@@ -1,0 +1,43 @@
+#outside {
+  
+}
+
+.open-card {
+  transform: rotateY(90deg);
+}
+
+#outside-title {
+ 
+}
+
+#outside-pic {
+  
+}
+
+#outside-help {
+  color: black;
+  font-family: Courier;
+  font-size: 12pt;
+  text-align: center;
+  padding: 20px;
+}
+
+#inside {
+ 
+}
+
+#inside-title {
+  
+}
+
+#inside-pic {
+  
+}
+
+#message {
+  
+}
+
+button {
+  background: silver;
+}
